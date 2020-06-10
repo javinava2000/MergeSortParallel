@@ -33,6 +33,7 @@ def main():
 
     #So that cpu usage shows a lull.
     time.sleep(3)
+	# REVISADO Y FINALIZADO
 
     #Now, parallel mergesort. You re-create the array, so it's new again
     lyst = list(lystbck)
